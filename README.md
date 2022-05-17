@@ -1,5 +1,5 @@
 # Digital-Humanities-Project-02
-Lyrical Poetry Project: Who might be the actual author of “A Visit of St. Nicholas”?
+SUTD 02.136DH Lyric Poetry Digital Humanities Project
 
 ## Details
 **Project Title:** Who might be the actual author of “A Visit of St. Nicholas”?
