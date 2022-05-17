@@ -1,0 +1,279 @@
+Source,Target,Weight,Type
+A Visit from St Nicholas,ClementClarkeMoore_A Trip to Saratoga,3,undirected
+A Visit from St Nicholas,HenryLivingstonJr_The Crane & The Fox, a Fable,3,undirected
+A Visit from St Nicholas,HenryLivingstonJr_The Vine & Oak A Fable,1,undirected
+ClementClarkeMoore_A Song,ClementClarkeMoore_Old Santeclaus,1,undirected
+ClementClarkeMoore_A Song,ClementClarkeMoore_To Southey,2,undirected
+ClementClarkeMoore_A Song,HenryLivingstonJr_The Vine & Oak A Fable,3,undirected
+ClementClarkeMoore_A Trip to Saratoga,A Visit from St Nicholas,3,undirected
+ClementClarkeMoore_A Trip to Saratoga,ClementClarkeMoore_Apology for not accepting an Invitation to a Ball,1,undirected
+ClementClarkeMoore_A Trip to Saratoga,ClementClarkeMoore_Cowper the Poet,3,undirected
+ClementClarkeMoore_A Trip to Saratoga,ClementClarkeMoore_Lines on the Sisters of Charity,2,undirected
+ClementClarkeMoore_A Trip to Saratoga,ClementClarkeMoore_The Organist,1,undirected
+ClementClarkeMoore_A Trip to Saratoga,ClementClarkeMoore_The Pig and the Rooster,3,undirected
+ClementClarkeMoore_A Trip to Saratoga,ClementClarkeMoore_The Water Drinker,5,undirected
+ClementClarkeMoore_A Trip to Saratoga,ClementClarkeMoore_The Wine Drinker,6,undirected
+ClementClarkeMoore_A Trip to Saratoga,ClementClarkeMoore_To my Daughter, on her marriage,2,undirected
+ClementClarkeMoore_A Trip to Saratoga,ClementClarkeMoore_To Southey,4,undirected
+ClementClarkeMoore_A Trip to Saratoga,ClementClarkeMoore_To Young Ladies who attended Philosophical Lectures,1,undirected
+ClementClarkeMoore_A Trip to Saratoga,HenryLivingstonJr_Acknowledgement,2,undirected
+ClementClarkeMoore_A Trip to Saratoga,HenryLivingstonJr_The Crane & The Fox, a Fable,3,undirected
+ClementClarkeMoore_Apology for not accepting an Invitation to a Ball,ClementClarkeMoore_A Trip to Saratoga,1,undirected
+ClementClarkeMoore_Apology for not accepting an Invitation to a Ball,ClementClarkeMoore_Cowper the Poet,2,undirected
+ClementClarkeMoore_Apology for not accepting an Invitation to a Ball,ClementClarkeMoore_The Wine Drinker,4,undirected
+ClementClarkeMoore_Apology for not accepting an Invitation to a Ball,ClementClarkeMoore_To Young Ladies who attended Philosophical Lectures,4,undirected
+ClementClarkeMoore_Cowper the Poet,ClementClarkeMoore_A Trip to Saratoga,3,undirected
+ClementClarkeMoore_Cowper the Poet,ClementClarkeMoore_Apology for not accepting an Invitation to a Ball,2,undirected
+ClementClarkeMoore_Cowper the Poet,ClementClarkeMoore_To the Nymphs of Mount Harmony,1,undirected
+ClementClarkeMoore_Farewell In answer to a young lady's invitation to join a party of pleasure on an excursion to the country,ClementClarkeMoore_Lines on the Sisters of Charity,1,undirected
+ClementClarkeMoore_Farewell In answer to a young lady's invitation to join a party of pleasure on an excursion to the country,ClementClarkeMoore_To the Fashionable Part of my Young Countrywomen,2,undirected
+ClementClarkeMoore_Farewell In answer to a young lady's invitation to join a party of pleasure on an excursion to the country,ClementClarkeMoore_To the Nymphs of Mount Harmony,3,undirected
+ClementClarkeMoore_From a Husband to his Wife,ClementClarkeMoore_The Water Drinker,1,undirected
+ClementClarkeMoore_From a Husband to his Wife,ClementClarkeMoore_To my Daughter, on her marriage,2,undirected
+ClementClarkeMoore_From a Husband to his Wife,ClementClarkeMoore_To Southey,3,undirected
+ClementClarkeMoore_Lines accompanying a Bunch of Flowers,ClementClarkeMoore_The Water Drinker,3,undirected
+ClementClarkeMoore_Lines accompanying a Bunch of Flowers,ClementClarkeMoore_To the Fashionable Part of my Young Countrywomen,1,undirected
+ClementClarkeMoore_Lines accompanying a Bunch of Flowers,HenryLivingstonJr_The Vine & Oak A Fable,2,undirected
+ClementClarkeMoore_Lines accompanying some Balls made for a Fragment Fair,ClementClarkeMoore_The Organist,2,undirected
+ClementClarkeMoore_Lines accompanying some Balls made for a Fragment Fair,ClementClarkeMoore_To the Fashionable Part of my Young Countrywomen,3,undirected
+ClementClarkeMoore_Lines accompanying some Balls made for a Fragment Fair,ClementClarkeMoore_To Young Ladies who attended Philosophical Lectures,1,undirected
+ClementClarkeMoore_Lines on the Sisters of Charity,ClementClarkeMoore_A Trip to Saratoga,2,undirected
+ClementClarkeMoore_Lines on the Sisters of Charity,ClementClarkeMoore_Farewell In answer to a young lady's invitation to join a party of pleasure on an excursion to the country,1,undirected
+ClementClarkeMoore_Lines on the Sisters of Charity,ClementClarkeMoore_Lines written after a season of Yellow Fever,1,undirected
+ClementClarkeMoore_Lines on the Sisters of Charity,ClementClarkeMoore_To my Children, with my Potrait,1,undirected
+ClementClarkeMoore_Lines on the Sisters of Charity,ClementClarkeMoore_To my Daughter, on her marriage,6,undirected
+ClementClarkeMoore_Lines on the Sisters of Charity,ClementClarkeMoore_To the Fashionable Part of my Young Countrywomen,1,undirected
+ClementClarkeMoore_Lines sent to a Young Lady, with a Pair of Gloves,ClementClarkeMoore_Lines written after a season of Yellow Fever,1,undirected
+ClementClarkeMoore_Lines sent to a Young Lady, with a Pair of Gloves,ClementClarkeMoore_Old Dobbin,2,undirected
+ClementClarkeMoore_Lines sent to a Young Lady, with a Pair of Gloves,ClementClarkeMoore_To the Nymphs of Mount Harmony,3,undirected
+ClementClarkeMoore_Lines to a Young Lady for Valentine's Day,ClementClarkeMoore_Lines written after a season of Yellow Fever,1,undirected
+ClementClarkeMoore_Lines to a Young Lady for Valentine's Day,ClementClarkeMoore_The Wine Drinker,2,undirected
+ClementClarkeMoore_Lines to a Young Lady for Valentine's Day,ClementClarkeMoore_To Southey,3,undirected
+ClementClarkeMoore_Lines written after a season of Yellow Fever,ClementClarkeMoore_Lines on the Sisters of Charity,1,undirected
+ClementClarkeMoore_Lines written after a season of Yellow Fever,ClementClarkeMoore_Lines sent to a Young Lady, with a Pair of Gloves,1,undirected
+ClementClarkeMoore_Lines written after a season of Yellow Fever,ClementClarkeMoore_Lines to a Young Lady for Valentine's Day,1,undirected
+ClementClarkeMoore_Lines written after a season of Yellow Fever,ClementClarkeMoore_The Mischievous Muse,3,undirected
+ClementClarkeMoore_Lines written after a season of Yellow Fever,ClementClarkeMoore_The Wine Drinker,3,undirected
+ClementClarkeMoore_Lines written after a season of Yellow Fever,ClementClarkeMoore_To a Lady,2,undirected
+ClementClarkeMoore_Lines written after a season of Yellow Fever,ClementClarkeMoore_To my Daughter, on her marriage,1,undirected
+ClementClarkeMoore_Lines written after a season of Yellow Fever,ClementClarkeMoore_To Southey,3,undirected
+ClementClarkeMoore_Lines written after a season of Yellow Fever,ClementClarkeMoore_To the Fashionable Part of my Young Countrywomen,2,undirected
+ClementClarkeMoore_Lines Written After a Snow-storm,ClementClarkeMoore_To my Daughter, on her marriage,1,undirected
+ClementClarkeMoore_Lines Written After a Snow-storm,HenryLivingstonJr_Apostrophe,2,undirected
+ClementClarkeMoore_Lines Written After a Snow-storm,HenryLivingstonJr_The Vine & Oak A Fable,3,undirected
+ClementClarkeMoore_Old Dobbin,ClementClarkeMoore_Lines sent to a Young Lady, with a Pair of Gloves,2,undirected
+ClementClarkeMoore_Old Dobbin,ClementClarkeMoore_On seeing my Name written in the sand of the sea-shore,3,undirected
+ClementClarkeMoore_Old Dobbin,ClementClarkeMoore_To the Nymphs of Mount Harmony,2,undirected
+ClementClarkeMoore_Old Dobbin,HenryLivingstonJr_The Vine & Oak A Fable,3,undirected
+ClementClarkeMoore_Old Dobbin,HenryLivingstonJr_To My Little Niece Sally Livingston,1,undirected
+ClementClarkeMoore_Old Dobbin,HenryLivingstonJr_To the Memory of Sarah Livingston,1,undirected
+ClementClarkeMoore_Old Santeclaus,ClementClarkeMoore_A Song,1,undirected
+ClementClarkeMoore_Old Santeclaus,ClementClarkeMoore_On receiving from a friend a Caricature cast of Paganini,1,undirected
+ClementClarkeMoore_Old Santeclaus,ClementClarkeMoore_To the Nymphs of Mount Harmony,3,undirected
+ClementClarkeMoore_Old Santeclaus,HenryLivingstonJr_The Vine & Oak A Fable,2,undirected
+ClementClarkeMoore_On receiving from a friend a Caricature cast of Paganini,ClementClarkeMoore_Old Santeclaus,1,undirected
+ClementClarkeMoore_On receiving from a friend a Caricature cast of Paganini,ClementClarkeMoore_To my Children, with my Potrait,4,undirected
+ClementClarkeMoore_On receiving from a friend a Caricature cast of Paganini,ClementClarkeMoore_To the Nymphs of Mount Harmony,3,undirected
+ClementClarkeMoore_On receiving from a friend a Caricature cast of Paganini,HenryLivingstonJr_The Dance,2,undirected
+ClementClarkeMoore_On receiving from a friend a Caricature cast of Paganini,HenryLivingstonJr_The IX Ode to Horace,3,undirected
+ClementClarkeMoore_On seeing my Name written in the sand of the sea-shore,ClementClarkeMoore_Old Dobbin,3,undirected
+ClementClarkeMoore_On seeing my Name written in the sand of the sea-shore,HenryLivingstonJr_Catharine Breese Livingston,1,undirected
+ClementClarkeMoore_On seeing my Name written in the sand of the sea-shore,HenryLivingstonJr_To the Memory of Sarah Livingston,2,undirected
+ClementClarkeMoore_The Mischievous Muse,ClementClarkeMoore_Lines written after a season of Yellow Fever,3,undirected
+ClementClarkeMoore_The Mischievous Muse,ClementClarkeMoore_The Wine Drinker,1,undirected
+ClementClarkeMoore_The Mischievous Muse,HenryLivingstonJr_The Vine & Oak A Fable,3,undirected
+ClementClarkeMoore_The Organist,ClementClarkeMoore_A Trip to Saratoga,1,undirected
+ClementClarkeMoore_The Organist,ClementClarkeMoore_Lines accompanying some Balls made for a Fragment Fair,2,undirected
+ClementClarkeMoore_The Organist,ClementClarkeMoore_The Wine Drinker,3,undirected
+ClementClarkeMoore_The Organist,ClementClarkeMoore_To Petrosa,1,undirected
+ClementClarkeMoore_The Organist,ClementClarkeMoore_To Southey,2,undirected
+ClementClarkeMoore_The Pig and the Rooster,ClementClarkeMoore_A Trip to Saratoga,3,undirected
+ClementClarkeMoore_The Pig and the Rooster,ClementClarkeMoore_To Southey,1,undirected
+ClementClarkeMoore_The Pig and the Rooster,ClementClarkeMoore_To the Nymphs of Mount Harmony,2,undirected
+ClementClarkeMoore_The Water Drinker,ClementClarkeMoore_A Trip to Saratoga,5,undirected
+ClementClarkeMoore_The Water Drinker,ClementClarkeMoore_From a Husband to his Wife,1,undirected
+ClementClarkeMoore_The Water Drinker,ClementClarkeMoore_Lines accompanying a Bunch of Flowers,3,undirected
+ClementClarkeMoore_The Water Drinker,ClementClarkeMoore_The Wine Drinker,4,undirected
+ClementClarkeMoore_The Water Drinker,ClementClarkeMoore_To a Young Lady, on her Birth-Day,1,undirected
+ClementClarkeMoore_The Water Drinker,ClementClarkeMoore_To Southey,3,undirected
+ClementClarkeMoore_The Water Drinker,ClementClarkeMoore_To the Nymphs of Mount Harmony,2,undirected
+ClementClarkeMoore_The Wine Drinker,ClementClarkeMoore_A Trip to Saratoga,6,undirected
+ClementClarkeMoore_The Wine Drinker,ClementClarkeMoore_Apology for not accepting an Invitation to a Ball,4,undirected
+ClementClarkeMoore_The Wine Drinker,ClementClarkeMoore_Lines to a Young Lady for Valentine's Day,2,undirected
+ClementClarkeMoore_The Wine Drinker,ClementClarkeMoore_Lines written after a season of Yellow Fever,3,undirected
+ClementClarkeMoore_The Wine Drinker,ClementClarkeMoore_The Mischievous Muse,1,undirected
+ClementClarkeMoore_The Wine Drinker,ClementClarkeMoore_The Organist,3,undirected
+ClementClarkeMoore_The Wine Drinker,ClementClarkeMoore_The Water Drinker,4,undirected
+ClementClarkeMoore_The Wine Drinker,ClementClarkeMoore_To a Lady,3,undirected
+ClementClarkeMoore_The Wine Drinker,ClementClarkeMoore_To Young Ladies who attended Philosophical Lectures,3,undirected
+ClementClarkeMoore_To a Lady,ClementClarkeMoore_Lines written after a season of Yellow Fever,2,undirected
+ClementClarkeMoore_To a Lady,ClementClarkeMoore_The Wine Drinker,3,undirected
+ClementClarkeMoore_To a Lady,ClementClarkeMoore_To the Fashionable Part of my Young Countrywomen,1,undirected
+ClementClarkeMoore_To a Young Lady, on her Birth-Day,ClementClarkeMoore_The Water Drinker,1,undirected
+ClementClarkeMoore_To a Young Lady, on her Birth-Day,ClementClarkeMoore_To the Nymphs of Mount Harmony,3,undirected
+ClementClarkeMoore_To a Young Lady, on her Birth-Day,HenryLivingstonJr_To the Memory of Sarah Livingston,2,undirected
+ClementClarkeMoore_To my Children, with my Potrait,ClementClarkeMoore_Lines on the Sisters of Charity,1,undirected
+ClementClarkeMoore_To my Children, with my Potrait,ClementClarkeMoore_On receiving from a friend a Caricature cast of Paganini,4,undirected
+ClementClarkeMoore_To my Children, with my Potrait,HenryLivingstonJr_An Elegy on the Death of Montgomery Tappen,2,undirected
+ClementClarkeMoore_To my Daughter, on her marriage,ClementClarkeMoore_A Trip to Saratoga,2,undirected
+ClementClarkeMoore_To my Daughter, on her marriage,ClementClarkeMoore_From a Husband to his Wife,2,undirected
+ClementClarkeMoore_To my Daughter, on her marriage,ClementClarkeMoore_Lines on the Sisters of Charity,6,undirected
+ClementClarkeMoore_To my Daughter, on her marriage,ClementClarkeMoore_Lines written after a season of Yellow Fever,1,undirected
+ClementClarkeMoore_To my Daughter, on her marriage,ClementClarkeMoore_Lines Written After a Snow-storm,1,undirected
+ClementClarkeMoore_To Petrosa,ClementClarkeMoore_The Organist,1,undirected
+ClementClarkeMoore_To Petrosa,HenryLivingstonJr_The Procession,2,undirected
+ClementClarkeMoore_To Petrosa,HenryLivingstonJr_The Vine & Oak A Fable,3,undirected
+ClementClarkeMoore_To Southey,ClementClarkeMoore_A Song,2,undirected
+ClementClarkeMoore_To Southey,ClementClarkeMoore_A Trip to Saratoga,4,undirected
+ClementClarkeMoore_To Southey,ClementClarkeMoore_From a Husband to his Wife,3,undirected
+ClementClarkeMoore_To Southey,ClementClarkeMoore_Lines to a Young Lady for Valentine's Day,3,undirected
+ClementClarkeMoore_To Southey,ClementClarkeMoore_Lines written after a season of Yellow Fever,3,undirected
+ClementClarkeMoore_To Southey,ClementClarkeMoore_The Organist,2,undirected
+ClementClarkeMoore_To Southey,ClementClarkeMoore_The Pig and the Rooster,1,undirected
+ClementClarkeMoore_To Southey,ClementClarkeMoore_The Water Drinker,3,undirected
+ClementClarkeMoore_To the Fashionable Part of my Young Countrywomen,ClementClarkeMoore_Farewell In answer to a young lady's invitation to join a party of pleasure on an excursion to the country,2,undirected
+ClementClarkeMoore_To the Fashionable Part of my Young Countrywomen,ClementClarkeMoore_Lines accompanying a Bunch of Flowers,1,undirected
+ClementClarkeMoore_To the Fashionable Part of my Young Countrywomen,ClementClarkeMoore_Lines accompanying some Balls made for a Fragment Fair,3,undirected
+ClementClarkeMoore_To the Fashionable Part of my Young Countrywomen,ClementClarkeMoore_Lines on the Sisters of Charity,1,undirected
+ClementClarkeMoore_To the Fashionable Part of my Young Countrywomen,ClementClarkeMoore_Lines written after a season of Yellow Fever,2,undirected
+ClementClarkeMoore_To the Fashionable Part of my Young Countrywomen,ClementClarkeMoore_To a Lady,1,undirected
+ClementClarkeMoore_To the Fashionable Part of my Young Countrywomen,HenryLivingstonJr_The Vine & Oak A Fable,4,undirected
+ClementClarkeMoore_To the Nymphs of Mount Harmony,ClementClarkeMoore_Cowper the Poet,1,undirected
+ClementClarkeMoore_To the Nymphs of Mount Harmony,ClementClarkeMoore_Farewell In answer to a young lady's invitation to join a party of pleasure on an excursion to the country,3,undirected
+ClementClarkeMoore_To the Nymphs of Mount Harmony,ClementClarkeMoore_Lines sent to a Young Lady, with a Pair of Gloves,3,undirected
+ClementClarkeMoore_To the Nymphs of Mount Harmony,ClementClarkeMoore_Old Dobbin,2,undirected
+ClementClarkeMoore_To the Nymphs of Mount Harmony,ClementClarkeMoore_Old Santeclaus,3,undirected
+ClementClarkeMoore_To the Nymphs of Mount Harmony,ClementClarkeMoore_On receiving from a friend a Caricature cast of Paganini,3,undirected
+ClementClarkeMoore_To the Nymphs of Mount Harmony,ClementClarkeMoore_The Pig and the Rooster,2,undirected
+ClementClarkeMoore_To the Nymphs of Mount Harmony,ClementClarkeMoore_The Water Drinker,2,undirected
+ClementClarkeMoore_To the Nymphs of Mount Harmony,ClementClarkeMoore_To a Young Lady, on her Birth-Day,3,undirected
+ClementClarkeMoore_To the Nymphs of Mount Harmony,HenryLivingstonJr_A Tenant of Mrs Van Kleeck,3,undirected
+ClementClarkeMoore_To the Nymphs of Mount Harmony,HenryLivingstonJr_Acknowledgement,3,undirected
+ClementClarkeMoore_To the Nymphs of Mount Harmony,HenryLivingstonJr_Letter Sent to Master Timmy Dwight,1,undirected
+ClementClarkeMoore_To the Nymphs of Mount Harmony,HenryLivingstonJr_The Crane & The Fox, a Fable,3,undirected
+ClementClarkeMoore_To the Nymphs of Mount Harmony,HenryLivingstonJr_The Dance,1,undirected
+ClementClarkeMoore_To the Nymphs of Mount Harmony,HenryLivingstonJr_The IX Ode to Horace,1,undirected
+ClementClarkeMoore_To the Nymphs of Mount Harmony,HenryLivingstonJr_The Vine & Oak A Fable,6,undirected
+ClementClarkeMoore_To the Nymphs of Mount Harmony,HenryLivingstonJr_To My Little Niece Sally Livingston,2,undirected
+ClementClarkeMoore_To Young Ladies who attended Philosophical Lectures,ClementClarkeMoore_A Trip to Saratoga,1,undirected
+ClementClarkeMoore_To Young Ladies who attended Philosophical Lectures,ClementClarkeMoore_Apology for not accepting an Invitation to a Ball,4,undirected
+ClementClarkeMoore_To Young Ladies who attended Philosophical Lectures,ClementClarkeMoore_Lines accompanying some Balls made for a Fragment Fair,1,undirected
+ClementClarkeMoore_To Young Ladies who attended Philosophical Lectures,ClementClarkeMoore_The Wine Drinker,3,undirected
+ClementClarkeMoore_To Young Ladies who attended Philosophical Lectures,HenryLivingstonJr_Hiding Place,3,undirected
+HenryLivingstonJr_1819 New Years Carriers Address,HenryLivingstonJr_Hiding Place,1,undirected
+HenryLivingstonJr_1819 New Years Carriers Address,HenryLivingstonJr_Letter Sent to Master Timmy Dwight,2,undirected
+HenryLivingstonJr_1819 New Years Carriers Address,HenryLivingstonJr_The Procession,3,undirected
+HenryLivingstonJr_A Tenant of Mrs Van Kleeck,ClementClarkeMoore_To the Nymphs of Mount Harmony,3,undirected
+HenryLivingstonJr_A Tenant of Mrs Van Kleeck,HenryLivingstonJr_An Elegy on the Death of Montgomery Tappen,2,undirected
+HenryLivingstonJr_A Tenant of Mrs Van Kleeck,HenryLivingstonJr_To the Memory of Sarah Livingston,1,undirected
+HenryLivingstonJr_Acknowledgement,ClementClarkeMoore_A Trip to Saratoga,2,undirected
+HenryLivingstonJr_Acknowledgement,ClementClarkeMoore_To the Nymphs of Mount Harmony,3,undirected
+HenryLivingstonJr_Acknowledgement,HenryLivingstonJr_The Crane & The Fox, a Fable,1,undirected
+HenryLivingstonJr_Acrostic Eliza Hughes,HenryLivingstonJr_Catharine Breese Livingston,1,undirected
+HenryLivingstonJr_Acrostic Eliza Hughes,HenryLivingstonJr_On My Sister Joanna Entrance Into Her 33rd Year,6,undirected
+HenryLivingstonJr_Acrostic Eliza Hughes,HenryLivingstonJr_The Vine & Oak A Fable,2,undirected
+HenryLivingstonJr_Acrostic Eliza Hughes,HenryLivingstonJr_To My Little Niece Sally Livingston,1,undirected
+HenryLivingstonJr_An Elegy on the Death of Montgomery Tappen,ClementClarkeMoore_To my Children, with my Potrait,2,undirected
+HenryLivingstonJr_An Elegy on the Death of Montgomery Tappen,HenryLivingstonJr_A Tenant of Mrs Van Kleeck,2,undirected
+HenryLivingstonJr_An Elegy on the Death of Montgomery Tappen,HenryLivingstonJr_Careless Philosphers Soliloquy,1,undirected
+HenryLivingstonJr_An Elegy on the Death of Montgomery Tappen,HenryLivingstonJr_Epithalamium A Marriage Poem,2,undirected
+HenryLivingstonJr_An Elegy on the Death of Montgomery Tappen,HenryLivingstonJr_Hiding Place,2,undirected
+HenryLivingstonJr_An Elegy on the Death of Montgomery Tappen,HenryLivingstonJr_Letter Sent to Master Timmy Dwight,2,undirected
+HenryLivingstonJr_An Elegy on the Death of Montgomery Tappen,HenryLivingstonJr_The Dance,4,undirected
+HenryLivingstonJr_An Elegy on the Death of Montgomery Tappen,HenryLivingstonJr_The Vine & Oak A Fable,5,undirected
+HenryLivingstonJr_An Elegy on the Death of Montgomery Tappen,HenryLivingstonJr_To the Memory of Sarah Livingston,3,undirected
+HenryLivingstonJr_Apostrophe,ClementClarkeMoore_Lines Written After a Snow-storm,2,undirected
+HenryLivingstonJr_Apostrophe,HenryLivingstonJr_Hiding Place,1,undirected
+HenryLivingstonJr_Apostrophe,HenryLivingstonJr_The Procession,3,undirected
+HenryLivingstonJr_Apostrophe,HenryLivingstonJr_The Vine & Oak A Fable,2,undirected
+HenryLivingstonJr_Apostrophe,HenryLivingstonJr_To the Memory of Sarah Livingston,5,undirected
+HenryLivingstonJr_Careless Philosphers Soliloquy,HenryLivingstonJr_An Elegy on the Death of Montgomery Tappen,1,undirected
+HenryLivingstonJr_Careless Philosphers Soliloquy,HenryLivingstonJr_To My Little Niece Sally Livingston,2,undirected
+HenryLivingstonJr_Careless Philosphers Soliloquy,HenryLivingstonJr_To the Memory of Sarah Livingston,3,undirected
+HenryLivingstonJr_Catharine Breese Livingston,ClementClarkeMoore_On seeing my Name written in the sand of the sea-shore,1,undirected
+HenryLivingstonJr_Catharine Breese Livingston,HenryLivingstonJr_Acrostic Eliza Hughes,1,undirected
+HenryLivingstonJr_Catharine Breese Livingston,HenryLivingstonJr_The Vine & Oak A Fable,3,undirected
+HenryLivingstonJr_Catharine Breese Livingston,HenryLivingstonJr_To My Little Niece Sally Livingston,2,undirected
+HenryLivingstonJr_Dialogue,HenryLivingstonJr_The Procession,2,undirected
+HenryLivingstonJr_Dialogue,HenryLivingstonJr_The Vine & Oak A Fable,1,undirected
+HenryLivingstonJr_Dialogue,HenryLivingstonJr_To the Memory of Sarah Livingston,3,undirected
+HenryLivingstonJr_Epithalamium A Marriage Poem,HenryLivingstonJr_An Elegy on the Death of Montgomery Tappen,2,undirected
+HenryLivingstonJr_Epithalamium A Marriage Poem,HenryLivingstonJr_The Vine & Oak A Fable,1,undirected
+HenryLivingstonJr_Epithalamium A Marriage Poem,HenryLivingstonJr_To the Memory of Sarah Livingston,3,undirected
+HenryLivingstonJr_Hiding Place,ClementClarkeMoore_To Young Ladies who attended Philosophical Lectures,3,undirected
+HenryLivingstonJr_Hiding Place,HenryLivingstonJr_1819 New Years Carriers Address,1,undirected
+HenryLivingstonJr_Hiding Place,HenryLivingstonJr_An Elegy on the Death of Montgomery Tappen,2,undirected
+HenryLivingstonJr_Hiding Place,HenryLivingstonJr_Apostrophe,1,undirected
+HenryLivingstonJr_Letter Sent to Master Timmy Dwight,ClementClarkeMoore_To the Nymphs of Mount Harmony,1,undirected
+HenryLivingstonJr_Letter Sent to Master Timmy Dwight,HenryLivingstonJr_1819 New Years Carriers Address,2,undirected
+HenryLivingstonJr_Letter Sent to Master Timmy Dwight,HenryLivingstonJr_An Elegy on the Death of Montgomery Tappen,2,undirected
+HenryLivingstonJr_Letter Sent to Master Timmy Dwight,HenryLivingstonJr_The Procession,1,undirected
+HenryLivingstonJr_Letter Sent to Master Timmy Dwight,HenryLivingstonJr_To the Memory of Sarah Livingston,3,undirected
+HenryLivingstonJr_On My Sister Joanna Entrance Into Her 33rd Year,HenryLivingstonJr_Acrostic Eliza Hughes,6,undirected
+HenryLivingstonJr_On My Sister Joanna Entrance Into Her 33rd Year,HenryLivingstonJr_The Vine & Oak A Fable,1,undirected
+HenryLivingstonJr_On My Sister Joanna Entrance Into Her 33rd Year,HenryLivingstonJr_To the Memory of Henry Welles Livingston,1,undirected
+HenryLivingstonJr_On My Sister Joanna Entrance Into Her 33rd Year,HenryLivingstonJr_To the Memory of Sarah Livingston,2,undirected
+HenryLivingstonJr_The Crane & The Fox, a Fable,A Visit from St Nicholas,3,undirected
+HenryLivingstonJr_The Crane & The Fox, a Fable,ClementClarkeMoore_A Trip to Saratoga,3,undirected
+HenryLivingstonJr_The Crane & The Fox, a Fable,ClementClarkeMoore_To the Nymphs of Mount Harmony,3,undirected
+HenryLivingstonJr_The Crane & The Fox, a Fable,HenryLivingstonJr_Acknowledgement,1,undirected
+HenryLivingstonJr_The Dance,ClementClarkeMoore_On receiving from a friend a Caricature cast of Paganini,2,undirected
+HenryLivingstonJr_The Dance,ClementClarkeMoore_To the Nymphs of Mount Harmony,1,undirected
+HenryLivingstonJr_The Dance,HenryLivingstonJr_An Elegy on the Death of Montgomery Tappen,4,undirected
+HenryLivingstonJr_The Dance,HenryLivingstonJr_The Vine & Oak A Fable,2,undirected
+HenryLivingstonJr_The IX Ode to Horace,ClementClarkeMoore_On receiving from a friend a Caricature cast of Paganini,3,undirected
+HenryLivingstonJr_The IX Ode to Horace,ClementClarkeMoore_To the Nymphs of Mount Harmony,1,undirected
+HenryLivingstonJr_The IX Ode to Horace,HenryLivingstonJr_The Vine & Oak A Fable,2,undirected
+HenryLivingstonJr_The Procession,ClementClarkeMoore_To Petrosa,2,undirected
+HenryLivingstonJr_The Procession,HenryLivingstonJr_1819 New Years Carriers Address,3,undirected
+HenryLivingstonJr_The Procession,HenryLivingstonJr_Apostrophe,3,undirected
+HenryLivingstonJr_The Procession,HenryLivingstonJr_Dialogue,2,undirected
+HenryLivingstonJr_The Procession,HenryLivingstonJr_Letter Sent to Master Timmy Dwight,1,undirected
+HenryLivingstonJr_The Procession,HenryLivingstonJr_The Vine & Oak A Fable,3,undirected
+HenryLivingstonJr_The Vine & Oak A Fable,A Visit from St Nicholas,1,undirected
+HenryLivingstonJr_The Vine & Oak A Fable,ClementClarkeMoore_A Song,3,undirected
+HenryLivingstonJr_The Vine & Oak A Fable,ClementClarkeMoore_Lines accompanying a Bunch of Flowers,2,undirected
+HenryLivingstonJr_The Vine & Oak A Fable,ClementClarkeMoore_Lines Written After a Snow-storm,3,undirected
+HenryLivingstonJr_The Vine & Oak A Fable,ClementClarkeMoore_Old Dobbin,3,undirected
+HenryLivingstonJr_The Vine & Oak A Fable,ClementClarkeMoore_Old Santeclaus,2,undirected
+HenryLivingstonJr_The Vine & Oak A Fable,ClementClarkeMoore_The Mischievous Muse,3,undirected
+HenryLivingstonJr_The Vine & Oak A Fable,ClementClarkeMoore_To Petrosa,3,undirected
+HenryLivingstonJr_The Vine & Oak A Fable,ClementClarkeMoore_To the Fashionable Part of my Young Countrywomen,4,undirected
+HenryLivingstonJr_The Vine & Oak A Fable,ClementClarkeMoore_To the Nymphs of Mount Harmony,6,undirected
+HenryLivingstonJr_The Vine & Oak A Fable,HenryLivingstonJr_Acrostic Eliza Hughes,2,undirected
+HenryLivingstonJr_The Vine & Oak A Fable,HenryLivingstonJr_An Elegy on the Death of Montgomery Tappen,5,undirected
+HenryLivingstonJr_The Vine & Oak A Fable,HenryLivingstonJr_Apostrophe,2,undirected
+HenryLivingstonJr_The Vine & Oak A Fable,HenryLivingstonJr_Catharine Breese Livingston,3,undirected
+HenryLivingstonJr_The Vine & Oak A Fable,HenryLivingstonJr_Dialogue,1,undirected
+HenryLivingstonJr_The Vine & Oak A Fable,HenryLivingstonJr_Epithalamium A Marriage Poem,1,undirected
+HenryLivingstonJr_The Vine & Oak A Fable,HenryLivingstonJr_On My Sister Joanna Entrance Into Her 33rd Year,1,undirected
+HenryLivingstonJr_The Vine & Oak A Fable,HenryLivingstonJr_The Dance,2,undirected
+HenryLivingstonJr_The Vine & Oak A Fable,HenryLivingstonJr_The IX Ode to Horace,2,undirected
+HenryLivingstonJr_The Vine & Oak A Fable,HenryLivingstonJr_The Procession,3,undirected
+HenryLivingstonJr_To My Little Niece Anne Duyckinck,HenryLivingstonJr_To My Little Niece Sally Livingston,3,undirected
+HenryLivingstonJr_To My Little Niece Anne Duyckinck,HenryLivingstonJr_To the Memory of Henry Welles Livingston,4,undirected
+HenryLivingstonJr_To My Little Niece Anne Duyckinck,HenryLivingstonJr_To the Memory of Sarah Livingston,1,undirected
+HenryLivingstonJr_To My Little Niece Sally Livingston,ClementClarkeMoore_Old Dobbin,1,undirected
+HenryLivingstonJr_To My Little Niece Sally Livingston,ClementClarkeMoore_To the Nymphs of Mount Harmony,2,undirected
+HenryLivingstonJr_To My Little Niece Sally Livingston,HenryLivingstonJr_Acrostic Eliza Hughes,1,undirected
+HenryLivingstonJr_To My Little Niece Sally Livingston,HenryLivingstonJr_Careless Philosphers Soliloquy,2,undirected
+HenryLivingstonJr_To My Little Niece Sally Livingston,HenryLivingstonJr_Catharine Breese Livingston,2,undirected
+HenryLivingstonJr_To My Little Niece Sally Livingston,HenryLivingstonJr_To My Little Niece Anne Duyckinck,3,undirected
+HenryLivingstonJr_To My Little Niece Sally Livingston,HenryLivingstonJr_To the Memory of Sarah Livingston,6,undirected
+HenryLivingstonJr_To the Memory of Henry Welles Livingston,HenryLivingstonJr_On My Sister Joanna Entrance Into Her 33rd Year,1,undirected
+HenryLivingstonJr_To the Memory of Henry Welles Livingston,HenryLivingstonJr_To My Little Niece Anne Duyckinck,4,undirected
+HenryLivingstonJr_To the Memory of Henry Welles Livingston,HenryLivingstonJr_To the Memory of Sarah Livingston,3,undirected
+HenryLivingstonJr_To the Memory of Sarah Livingston,ClementClarkeMoore_Old Dobbin,1,undirected
+HenryLivingstonJr_To the Memory of Sarah Livingston,ClementClarkeMoore_On seeing my Name written in the sand of the sea-shore,2,undirected
+HenryLivingstonJr_To the Memory of Sarah Livingston,ClementClarkeMoore_To a Young Lady, on her Birth-Day,2,undirected
+HenryLivingstonJr_To the Memory of Sarah Livingston,HenryLivingstonJr_A Tenant of Mrs Van Kleeck,1,undirected
+HenryLivingstonJr_To the Memory of Sarah Livingston,HenryLivingstonJr_An Elegy on the Death of Montgomery Tappen,3,undirected
+HenryLivingstonJr_To the Memory of Sarah Livingston,HenryLivingstonJr_Apostrophe,5,undirected
+HenryLivingstonJr_To the Memory of Sarah Livingston,HenryLivingstonJr_Careless Philosphers Soliloquy,3,undirected
+HenryLivingstonJr_To the Memory of Sarah Livingston,HenryLivingstonJr_Dialogue,3,undirected
+HenryLivingstonJr_To the Memory of Sarah Livingston,HenryLivingstonJr_Epithalamium A Marriage Poem,3,undirected
+HenryLivingstonJr_To the Memory of Sarah Livingston,HenryLivingstonJr_Letter Sent to Master Timmy Dwight,3,undirected
+HenryLivingstonJr_To the Memory of Sarah Livingston,HenryLivingstonJr_On My Sister Joanna Entrance Into Her 33rd Year,2,undirected
+HenryLivingstonJr_To the Memory of Sarah Livingston,HenryLivingstonJr_To My Little Niece Anne Duyckinck,1,undirected
+HenryLivingstonJr_To the Memory of Sarah Livingston,HenryLivingstonJr_To My Little Niece Sally Livingston,6,undirected
+HenryLivingstonJr_To the Memory of Sarah Livingston,HenryLivingstonJr_To the Memory of Henry Welles Livingston,3,undirected
